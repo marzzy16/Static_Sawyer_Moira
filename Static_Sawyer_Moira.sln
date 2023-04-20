@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Sawyer_Moira", "Static_Sawyer_Moira.csproj", "{DF417CDE-9C43-405E-9295-22948E9A0F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF417CDE-9C43-405E-9295-22948E9A0F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF417CDE-9C43-405E-9295-22948E9A0F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF417CDE-9C43-405E-9295-22948E9A0F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF417CDE-9C43-405E-9295-22948E9A0F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4455B32F-0348-4DA4-8C2C-B57D2902AF65}
+	EndGlobalSection
+EndGlobal
